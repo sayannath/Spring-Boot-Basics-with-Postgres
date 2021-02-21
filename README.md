@@ -1,5 +1,3 @@
-# Spring-Boot-Basics-with-Postgres
+# Spring Boot Basics with Postgres
 
-## DAY 1
-
-Backend with Postgres
+REST API implementation with Postgres
